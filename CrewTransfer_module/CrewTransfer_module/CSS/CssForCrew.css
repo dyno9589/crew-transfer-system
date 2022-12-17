@@ -1,0 +1,31 @@
+﻿body {
+    background-attachment: scroll;
+    background: linear-gradient(50deg,pink,skyBlue);
+    font-family: 'Californian FB';
+    font-style: oblique;
+}
+
+h1{
+    text-align:center;
+    margin-bottom:50px;
+    color:crimson;
+}
+
+footer{
+    background-color:none;
+    text-align:center;
+    margin-bottom:0px;
+}
+
+.hom {
+    margin-left: 200px;
+}
+.crw {
+    margin-left: 140px;
+}
+.cty {
+    margin-left: 140px;
+}
+.trns {
+    margin-left: 140px;
+}
